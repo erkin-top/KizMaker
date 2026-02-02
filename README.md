@@ -1,4 +1,7 @@
 # KizMaker (КИЗ Генератор)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/erkin-top/KizMaker/main/screen.png" alt="Лого">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%207%2B-0078D6?style=flat-square" alt="Platform: Windows 7+">
@@ -89,3 +92,4 @@ Copyright © 2023-2026 Erkin. Все права защищены.
 <p align="center">
   <sub>Разработано для упрощения работы с обязательной маркировкой.</sub>
 </p>
+
